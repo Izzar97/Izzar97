@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tasya
+- 👋 Hi, I’m 
 - 👀 I’m interested in Web Developer
 - I'm Student
 - 🌱 I’m currently learning in Institut Teknologi Indonesia
